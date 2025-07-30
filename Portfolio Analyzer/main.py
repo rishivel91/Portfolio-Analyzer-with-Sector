@@ -10,7 +10,7 @@ import time
 # --- Configuration ---
 # IMPORTANT: You MUST get your own free API key from: https://www.alphavantage.co/support/#api-key
 # Paste your key in the quotes below or enter it when the script runs.
-ALPHA_VANTAGE_API_KEY = "4VU401PRTAD5KDVR"  # <-- PASTE YOUR KEY HERE
+ALPHA_VANTAGE_API_KEY = ""  # <-- PASTE YOUR KEY HERE
 
 # Define the benchmark tickers for the Indian market.
 BENCHMARK_TICKERS = ['^NSEI', '^BSESN']
